@@ -6,7 +6,7 @@ if(!$db){
     echo "Failed";
 }
 else if($db){
-    echo "database connected!";
+    //echo "database connected!";
 }
 
 
